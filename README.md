@@ -9,5 +9,12 @@
 3. Criação dos Botões da Calculadora
 
 
+# Fonte Utilizado e Local Pegado
+
+1. Google Fonte
+2. Fonte Poppins
+
+
+
 # Projeto em Construção
 
