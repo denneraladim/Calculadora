@@ -28,3 +28,4 @@ function inverterNumero(){
     const valorDisplay = document.querySelector(".display").value
     document.querySelector(".display").value = valorDisplay * -1
 }
+
