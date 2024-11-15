@@ -30,11 +30,13 @@ div {
 }
 
 /* Estlização dos Botões e o Resultado */
-p {
+input {
     font-size: 48px;
-    justify-content: end;
-    display: grid;
-    align-items: end;
+    background: #17181A;
+    border: none;
+    outline: none;
+    text-align: right;
+    padding-top: 50px;
 
 /* Ocupar a coluna inteira */
 
@@ -103,3 +105,5 @@ button:active {
     grid-row: 6 / 8;
     grid-column: 4 / 5;
 }
+
+
