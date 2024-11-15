@@ -13,8 +13,8 @@
 <body>
     <div>
         <input class="display">
-        <button class="gray-button">AC</button>
-        <button class="gray-button">+/-</button>
+        <button class="gray-button" onclick="limpaTela()">AC</button>
+        <button class="gray-button" onclick="inverterNumero()">+/-</button>
         <button class="blue-button" onclick="adicionarCaracter('/')">/</button>
         <button class="blue-button" onclick="adicionarCaracter('*')">*</button>
         <button class="black-button" onclick="adicionarCaracter('7')">7</button>
@@ -28,7 +28,7 @@
         <button class="black-button" onclick="adicionarCaracter('1')">1</button>
         <button class="black-button" onclick="adicionarCaracter('2')">2</button>
         <BUtton class="black-button" onclick="adicionarCaracter('3')">3</BUtton>
-        <BUtton class="equal-button equal">=</BUtton>
+        <BUtton class="equal-button equal" onclick="calcular()">=</BUtton>
         <BUtton class="black-button zero" onclick="adicionarCaracter('0')">0</BUtton>
         <BUtton class="black-button" onclick="adicionarCaracter('.')">.</BUtton>
     </div>

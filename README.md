@@ -26,6 +26,9 @@
 5. Criação das Funções em JavaScript
 6. Criação dos Eventos nas tags de HTML
 7. Utilização do Document que serve para acessar o HTML(DOM)
+8. Função de Limpar Tela
+9. Função de Cálculo
+10. Inverter o Sinal do Número
 
 
 
