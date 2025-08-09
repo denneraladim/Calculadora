@@ -1,0 +1,45 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    border: none;
+}
+
+.calc {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nome {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.mostrador {
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.teclas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tecla {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #aaa;
+    border: 3px solid #888;
+    font-weight: bold;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+
+
