@@ -8,7 +8,7 @@ Uma calculadora simples e funcional desenvolvida com HTML, CSS e JavaScript, evo
 
 # Funcionalidades
 
-- Operações básicas: +, -, × e  /
+- Operações básicas: +, -, ×, /
 
 - Visor atualizado dinamicamente para mostrar os números e resultados
 
