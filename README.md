@@ -10,8 +10,6 @@ Uma calculadora simples e funcional desenvolvida com HTML, CSS e JavaScript, evo
 
 - Operações básicas: +, -, × e  /
 
-- Operações avançadas: % (porcentagem), ^ (potência), √ (raiz quadrada)
-
 - Visor atualizado dinamicamente para mostrar os números e resultados
 
 - Teclas numéricas de 0 a 9 e separador decimal e Botão igual = para calcular a expressão
