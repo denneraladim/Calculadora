@@ -3,7 +3,7 @@
 # Calculadora em JavaScript
 
 
-Uma calculadora funcional desenvolvida com HTML, CSS e JavaScript, evoluída para incluir operações e visual responsivo.
+Uma calculadora funcional desenvolvida com HTML, CSS e JavaScript  para incluir operações e visual responsivo.
 
 
 # Funcionalidades
