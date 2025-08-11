@@ -12,24 +12,29 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    background-color: #eee;
+    border: 3px solid #bbb;
+    width: 230px;
+    border-radius: 5px;
 }
+
+/* Título */
+
 .div_nome{
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 220px;
+    
 }
-.div_display{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
+
+
 .teclas{
     display: flex;
     justify-content: center;
     align-items: center;
     width: 220px;
     flex-wrap: wrap;
-    border: 1px solid red;
 }
 .tecla{
     display: flex;
@@ -51,3 +56,20 @@
     border-color: #800 !important;
 }
 
+/* Display */
+
+.div_display{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 220px;
+}
+
+.display {
+    width: 220px;
+    background-color: #8a8;
+    text-align: right;
+    padding: 5px;
+    font-family: monospace;
+    font-size: 30px;
+}

@@ -22,3 +22,5 @@ Uma calculadora funcional desenvolvida com HTML, CSS e JavaScript  para incluir 
 - script.js: lógica da calculadora (interação e cálculo)
 
 
+# Etapas do Projeto
+
