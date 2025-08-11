@@ -24,3 +24,13 @@ Uma calculadora funcional desenvolvida com HTML, CSS e JavaScript  para incluir 
 
 # Etapas do Projeto
 
+- Criar o HTML
+- Estilizar o CSS
+- Criar o Arquivo Java Script
+- Pegar as teclas numéricas e operações
+- Utilizar o Dom
+- Adicionar os Eventos
+- Criar uma função para fazer o controle para evitar de colocar duas virgulas 
+
+
+
