@@ -8,7 +8,7 @@ Uma calculadora funcional desenvolvida com HTML, CSS e JavaScript  para incluir 
 
 # Funcionalidades
 
-- Operações básicas: +, -, ×, /
+- Operações: +, -, ×, /, Raiz Quadrada
 
 - Visor atualizado dinamicamente para mostrar os números e resultados
 
@@ -33,6 +33,7 @@ Uma calculadora funcional desenvolvida com HTML, CSS e JavaScript  para incluir 
 - Criar uma função para fazer o controle para evitar de colocar duas virgulas
 - Criar a operação matemática
 - Função Eval
+- Criação a Operação de Raiz Quadrada com o Math
 
 
 
