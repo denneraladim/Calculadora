@@ -34,6 +34,7 @@ Uma calculadora funcional desenvolvida com HTML, CSS e JavaScript  para incluir 
 - Criar a operação matemática
 - Função Eval
 - Criação a Operação de Raiz Quadrada com o Math
+- Foi colocado Responsivo 
 
 
 
