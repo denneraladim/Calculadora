@@ -5,6 +5,8 @@ const teclasNum = [...document.querySelectorAll(".num")]
 const teclasOp = [...document.querySelectorAll(".op")]
 const teclasRes = document.querySelector(".res")
 const display = document.querySelector(".display")
+const tporcent = document.querySelector("#porcent")
+const tlimpar = document.querySelector("#tlimpar")
 
 
 // Adicionar Eventos
@@ -21,6 +23,9 @@ teclasOp.map((el)=>{
     })
 })
 
+tlimpar.addEventListener("click",(evt)=>{
+    display.innerHTML="0"
+})
 
 // Controle dos Calculos
 
