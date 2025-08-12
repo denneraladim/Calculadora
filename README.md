@@ -30,7 +30,11 @@ Uma calculadora funcional desenvolvida com HTML, CSS e JavaScript  para incluir 
 - Pegar as teclas numéricas e operações
 - Utilizar o Dom
 - Adicionar os Eventos
-- Criar uma função para fazer o controle para evitar de colocar duas virgulas 
+- Criar uma função para fazer o controle para evitar de colocar duas virgulas
+- Criar a operação matemática
+- Função Eval
+
+
 
 
 
