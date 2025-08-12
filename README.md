@@ -32,9 +32,9 @@ Uma calculadora funcional desenvolvida com HTML, CSS e JavaScript, incluindo ope
 
 ## Tecnologias Utilizadas
 
-- HTML5  
-- CSS3 (Mobile First e responsivo)  
-- JavaScript (ES6+)
+- **`HTML5`**  
+- **`CSS3`** (Mobile First e responsivo)  
+- **`JavaScript`** (ES6+)
 
 
 ##  Etapas do Desenvolvimento
