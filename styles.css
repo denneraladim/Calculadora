@@ -4,8 +4,8 @@
 :root{
     --cinza-claro: #eee;
     --cinza-medio: #aaa;
-    --cinza-borda-clara: #bbb;
-    --cinza-borda-escura: #888;
+    --cinza-borda-claro: #bbb;
+    --cinza-borda-escuro: #888;
     --vermelha-borda-escuro: #800;
     --vermelho-vibrante: #ff4d4d;
     --verde-suave: #8a8;
@@ -34,7 +34,7 @@ html, body {
     align-items: center;
     flex-direction: column;
     background-color: var(--cinza-claro);
-    border: 3px solid var(--cinza-borda-clara);
+    border: 3px solid var(--cinza-borda-claro);
     width: 230px;
     border-radius: 5px;
     
@@ -65,7 +65,7 @@ html, body {
     justify-content: center;
     align-items: center;
     background-color: var(--cinza-medio);
-    border: 3px solid var(--cinza-borda-escura);
+    border: 3px solid var(--cinza-borda-escuro);
     border-radius: 10px;
     font-weight: bold;
     width: 50px;
