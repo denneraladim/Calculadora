@@ -73,6 +73,7 @@ html, body {
     height: 50px;
     cursor: pointer;
     margin: 2px;
+    font-size: 30px;
 }
 
 
@@ -125,7 +126,7 @@ html, body {
     .tecla {
         width: 70px;
         height: 70px;
-        font-size: 18px;
+        font-size: 40px;
         margin: 3px;
     }
 
