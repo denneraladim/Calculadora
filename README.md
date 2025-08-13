@@ -28,6 +28,8 @@ Uma calculadora funcional desenvolvida com HTML, CSS e JavaScript, incluindo ope
 
 3. **`script.js`**:  lógica da calculadora (interação e cálculo)
 
+4. **`Img`**: Pasta para colocar as imagens
+
 ## Como Executar
 
 1. Clone ou baixe este repositório.  
