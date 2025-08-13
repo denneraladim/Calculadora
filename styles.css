@@ -51,6 +51,7 @@ html, body {
     
 }
 
+/* Teclas e Tecla */
 
 .teclas{
     display: flex;
@@ -73,6 +74,8 @@ html, body {
     margin: 2px;
 }
 
+
+/* Tecla de Operação */
 
 .teclaOp {
     background-color: var(--vermelho-vibrante) !important;

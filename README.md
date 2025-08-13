@@ -55,7 +55,7 @@ Uma calculadora funcional desenvolvida com HTML, CSS e JavaScript, incluindo ope
 
 8. Implementar operações matemáticas usando `eval`
 
-9. Criar função de raiz quadrada com `Math.sqrt`
+9. Criar função de raiz quadrada com a biblioteca `Math.sqrt`
 
 10. Desenvolver **mobile first** e depois ajustar responsividade
 
