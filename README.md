@@ -20,6 +20,8 @@ Uma calculadora funcional desenvolvida com HTML, CSS e JavaScript, incluindo ope
 
 ✅ Botão **"="** para calcular a expressão
 
+🧹 **"CL"** Serve para Limpar os dados
+
 ## Estrutura do Projeto
 
 1. **`index.html`**: marcação HTML da calculadora
