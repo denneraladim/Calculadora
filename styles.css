@@ -7,6 +7,8 @@
     --cinza-borda-clara: #bbb;
     --cinza-borda-escura: #888;
     --vermelha-borda-escuro: #800;
+    --vermelho-vibrante: #ff4d4d;
+    --verde-suave: #8a8;
 }
 
 
@@ -73,8 +75,10 @@ html, body {
 
 
 .teclaOp {
-    background-color: #f44 !important;
+    background-color: var(--vermelho-vibrante) !important;
     border-color: var(--vermelha-borda-escuro) !important;
+    font-weight: 700;
+    font-size: 21px;
 }
 
 /* Display */
@@ -88,7 +92,7 @@ html, body {
 
 .display {
     width: 220px;
-    background-color: #8a8;
+    background-color: var(--verde-suave);
     text-align: right;
     padding: 5px;
     font-family: monospace;

@@ -45,17 +45,19 @@ Uma calculadora funcional desenvolvida com HTML, CSS e JavaScript, incluindo ope
 
 3. Criar o **JavaScript** para lógica da calculadora
 
-4. Capturar teclas numéricas e operações via **DOM**
+4. Criar as variáveis das cores
 
-5. Adicionar eventos para interação
+5. Capturar teclas numéricas e operações via **DOM**
 
-6. Criar função para evitar múltiplas vírgulas no mesmo número
+6. Adicionar eventos para interação
 
-7. Implementar operações matemáticas usando `eval`
+7. Criar função para evitar múltiplas vírgulas no mesmo número
 
-8. Criar função de raiz quadrada com `Math.sqrt`
+8. Implementar operações matemáticas usando `eval`
 
-9. Desenvolver **mobile first** e depois ajustar responsividade
+9. Criar função de raiz quadrada com `Math.sqrt`
+
+10. Desenvolver **mobile first** e depois ajustar responsividade
 
 ##  Responsividade
 
