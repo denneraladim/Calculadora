@@ -59,6 +59,8 @@ Uma calculadora funcional desenvolvida com HTML, CSS e JavaScript, incluindo ope
 
 10. Desenvolver **mobile first** e depois ajustar responsividade
 
+11. Criado o media querie para tela maiores de 600
+
 ##  Responsividade
 
 - O layout foi projetado para funcionar bem em **dispositivos móveis**, adaptando-se automaticamente para telas maiores.
