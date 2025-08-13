@@ -3,6 +3,8 @@
 
 [Ver projeto online](https://calculadora-cmvf.vercel.app/) (Abre em uma nova aba)
 
+![Calculadora](./img/Calculadora.png)
+
 Uma calculadora funcional desenvolvida com HTML, CSS e JavaScript, incluindo operações básicas e raiz quadrada.
  O design foi pensado mobile first e adaptado para ser responsivo.
 
