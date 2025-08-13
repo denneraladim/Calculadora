@@ -111,11 +111,7 @@ html, body {
         border-radius: 8px;
     }
 
-    .div_nome {
-        width: 340px;
-    }
-
-    .div_display {
+    .div_nome, .div_display, .teclas {
         width: 340px;
     }
 
@@ -123,10 +119,6 @@ html, body {
         width: 340px;
         font-size: 40px;
         padding: 10px;
-    }
-
-    .teclas {
-        width: 340px;
     }
 
     .tecla {
