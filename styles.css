@@ -1,4 +1,16 @@
 
+/* Variáveis */
+
+:root{
+    --cinza-claro: #eee;
+    --cinza-medio: #aaa;
+    --cinza-borda-clara: #bbb;
+    --cinza-borda-escura: #888;
+    --vermelha-borda-escuro: #800;
+}
+
+
+
 * {
     padding: 0;
     margin: 0;
@@ -11,7 +23,7 @@ html, body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #eee;
+  background-color: var(--cinza-claro);
 }
 
 .calc{
@@ -19,8 +31,8 @@ html, body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: #eee;
-    border: 3px solid #bbb;
+    background-color: var(--cinza-claro);
+    border: 3px solid var(--cinza-borda-clara);
     width: 230px;
     border-radius: 5px;
     
@@ -49,8 +61,8 @@ html, body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #aaa;
-    border: 3px solid #888;
+    background-color: var(--cinza-medio);
+    border: 3px solid var(--cinza-borda-escura);
     border-radius: 10px;
     font-weight: bold;
     width: 50px;
@@ -62,7 +74,7 @@ html, body {
 
 .teclaOp {
     background-color: #f44 !important;
-    border-color: #800 !important;
+    border-color: var(--vermelha-borda-escuro) !important;
 }
 
 /* Display */
